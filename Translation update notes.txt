@@ -1,0 +1,92 @@
+1115: should focus on the "training" aspect of the "training lab" no? ("huấn luyện").
+merged 1119
+merged 1123	
+merged 1131
+merged 1138
+merged 1144
+1146 - layermodifier6dsc: aren't "hồ" already exposed in a way? 
+1147 - layermodifier7dsc: couldn't really rain in a cave. Also, no "rain" was mentioned.
+merged 1151
+merged 1155
+1160 - gencreatingcolliders: yours is just "materializing objects" and mine is too literal. We both could find a better translation for this...
+semi-merged 1163
+1164 - resilience: "Bền bỉ" is an adjective, should be a noun. ("Độ bền").
+semi-merged 1165
+semi-merged 1167
+1170 - experienceatstart: mistranslate?
+1173 - missiontime: "khu vực" is more similar to "area", which in this case feels more like it's pointing to the place as a whole, rather than that specific layer, "tầng".
+merged 1179
+1185 - wood: no mention of "ván"(plank) 
+merged 1188
+merged 1191
+1196 - toxirock: I kinda want to keep the mix n' match vibe of toxirock (toxic-rock). Also so mention of radiation in the rock's name itself (although I know it is radioactive)
+merged 1197
+merged 1199
+1211 - lrdserumdsc: "localized" here means on specific body parts, not "on the spot"(tại chỗ)
+1217 - alcoholdsc: you can drink it, but you won't be able to digest it.
+semi-merged 1225
+merged 1226
+semi-merged 1233
+semi-merged 1239
+semi-merged 1247
+1248 - chloroform: ...why?
+semi-merged 1249
+merged 1251
+1255 - powderedmilkdsc: what is efficient milk powder, anyway? like efficiently compressed or is the milk very good at something?
+1256 - morphine: "granite" to "granit", why not "morhpine" to "morphin" ?
+semi-merged 1271
+semi-merged 1273
+semi-merged 1275
+semi-merged 1277
+merged 1278
+semi-merged 1279
+merged 1290
+semi-merged 1291
+semi-merged 1293
+semi-merged 1295
+merged 1296
+semi-merged 1297
+1298 -antiserum: "kháng nguyên" here is "antigen", whereas antiserumdsc says it contains "antibodies" - "kháng thể", two different, and arguably opposite, entities. While they do the same thing, they aren't the same thing. Antigen triggers the body's defense to start working, antibody IS the defense.
+semi-merged 1303
+semi-merged 1305
+semi-merged 1307
+1309 - oxylinedsc- "reagent" can either mean "thuốc thử" or "chất phản ứng". In the case of oxyline in this situation, where it reoxyginate blood, stablizes fibrilation and react with stomach acid, "chất phản ứng" would be a better translation as it wasn't used to test anything.
+semi-merged 1311
+1312 - antirad: could go for a translation that better match the mix n' match vibe of "anti-rad"? "Thuốc kháng xạ" maybe?
+semi-merged 1313
+1314 - braingrow: same with antirad.
+semi-merged 1315
+1316 - Mindwipe: same with antirad
+1319 - streptokinase: no mention of "enzyme"
+1320 - sodiumnitroprusside: ...really?
+semi-merged 1321
+semi-merged 1323
+semi-merged 1325
+semi-merged 1337
+1344 - algae: since "Lumalgae" is a made up word, i kinda want to keep that vibe going by not using an existing vietnamese word, but rather modify it a little to "Quang tảo"
+semi-merged 1345
+1357 - producejuicedsc: missing context "mixed with water". 
+semi-merged 1392
+semi-merged 1394
+semi-merged 1396
+semi-merged 1415
+1416 - presetunchipped: "unchipped" here meant the chip wasn't even in their brain in the first place, based on lore from PDA 11, so it couldn't be "gỡ" as it would imply the removal of an already implanted chip.
+semi-merged 1417 (it's "có lẽ", not "có lẻ", btw)
+semi-merged 1419
+1424 - runsetunchipped: same with 1416
+semi-merged 1425
+semi-merged 1437
+semi-merged 1443
+semi-merged 1444
+merged 1453
+merged 1455
+1457 - runsetbonuslimbarmor: mistranslate?
+1458 - runsetbonuslimbarmordsc: where are you getting this?
+
+
+
+
+
+
+
+	
